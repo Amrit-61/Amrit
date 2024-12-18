@@ -1,4 +1,5 @@
 # Amrit
 This is my first Repository
 <br>
-Author- Amritpal Singh
+Author- Amritpal Singh rai
+
